@@ -1,0 +1,187 @@
+level,item_code,keyword,cereal_category,new_category,final_category,milk_conversion,tag,dropdown,food_group_code,remark,frequency,units,veg,nonveg,unit_factor,Group_NIN,na,food_group,food_group_code_ICMR,veg_ICMR,nonveg_ICMR,Protein,Fat,Carbohydrates,Energy,Total dietary fibre,Vitamin B1,Vitamin B2,Vitamin B3,Vitamin B6,Vitamin B9,Vitamin C,Vitamin A,Vitamin D,Calcium (mg),Magnesium (mg),Iron (mg),Zinc (mg)
+5,164,ghee,,#N/A,#N/A,22,,,6,,7,kg,300,300,1,Milk/curd,Milk/curd,Milk/curd,7,,,21.6,18.6,16,337,0,125,388,275,7.5,12,2,76.5,0.02,755,7,2,0.28
+5,165,butter,,#N/A,#N/A,17.9,,,6,,7,kg,300,300,1,Milk/curd,Milk/curd,Milk/curd,7,,,21.6,18.6,16,337,0,125,388,275,7.5,12,2,76.5,0.02,755,7,2,0.28
+5,5,cheese (gm),,#N/A,#N/A,5.8,,,6,,7,gm,300,300,1000,Milk/curd,Milk/curd,Milk/curd,7,,,21.6,18.6,16,337,0,125,388,275,7.5,12,2,76.5,0.02,755,7,2,0.28
+5,162,milk: condensed/ powder,,#N/A,#N/A,5.5,,,6,,7,kg,300,300,1,Milk/curd,Milk/curd,Milk/curd,7,,,3.1,4.2,5,72,0,80,80,140,16,3,3,17.2,0.57,127.6,0,0.2,0.1
+5,3,paneer,,#N/A,#N/A,4.9,,,6,,7,kg,300,300,1,Milk/curd,Milk/curd,Milk/curd,7,,,21.6,18.6,16,337,0,125,388,275,7.5,12,2,76.5,0.02,755,7,2,0.28
+5,160,milk: liquid (litre),,#N/A,#N/A,1.03,,,6,,7,litre,300,300,1,Milk/curd,Milk/curd,Milk/curd,7,,,3.1,4.2,5,72,0,80,80,140,16,3,3,17.2,0.57,127.6,0,0.2,0.1
+5,163,"curd, yogurt",,#N/A,#N/A,1.03,,,6,,7,kg,300,300,1,Milk/curd,Milk/curd,Milk/curd,7,,,21.6,18.6,16,337,0,125,388,275,7.5,12,2,76.5,0.02,755,7,2,0.28
+5,2,"coarse grains - other sources& (jowar, bajra, maize, barley, ragi, small millets & its products)",coarse,nutri-cereal,nutri-cereal (other),1,,1,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,70,"coarse grains&- free$ (jowar, bajra, maize, barley, ragi, small millets)",coarse,nutri-cereal,nutri-cereal (subsidised),1,F,1,1,PMGKAY or other state-specific scheme,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,1,"coarse grains-PDS& (jowar, bajra, maize, barley, ragi, small millets)",coarse,nutri-cereal,nutri-cereal (subsidised),1,F,1,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,64,bajra & its products (free - PMGKAY or other),bajra,nutri-cereal,nutri-cereal (subsidised),1,F,2,1,PMGKAY or other state-specific scheme,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,116,bajra & its products (other sources),bajra,nutri-cereal,nutri-cereal (other),1,,2,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,56,bajra & its products (PDS),bajra,nutri-cereal,nutri-cereal (subsidised),1,P,2,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,66,barley & its products (free - PMGKAY or other),barley,nutri-cereal,nutri-cereal (subsidised),1,F,2,1,PMGKAY or other state-specific scheme,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,118,barley & its products (other sources),barley,nutri-cereal,nutri-cereal (other),1,,2,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,58,barley & its products (PDS),barley,nutri-cereal,nutri-cereal (subsidised),1,P,2,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,63,jowar & its products (free - PMGKAY or other),jowar,nutri-cereal,nutri-cereal (subsidised),1,F,2,1,PMGKAY or other state-specific scheme,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,115,jowar & its products (other sources),jowar,nutri-cereal,nutri-cereal (other),1,,2,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,55,jowar & its products (PDS),jowar,nutri-cereal,nutri-cereal (subsidised),1,P,2,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,65,maize & its products  (free - PMGKAY or other),maize,nutri-cereal,nutri-cereal (subsidised),1,F,2,1,PMGKAY or other state-specific scheme,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,117,maize & its products  (other sources),maize,nutri-cereal,nutri-cereal (other),1,,2,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,57,maize & its products  (PDS),maize,nutri-cereal,nutri-cereal (subsidised),1,P,2,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,67,ragi & its products (free - PMGKAY or other),ragi,nutri-cereal,nutri-cereal (subsidised),1,F,2,1,PMGKAY or other state-specific scheme,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,121,ragi & its products (other sources),ragi,nutri-cereal,nutri-cereal (other),1,,2,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,59,ragi & its products (PDS),ragi,nutri-cereal,nutri-cereal (subsidised),1,P,2,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,68,small millets & its products (free - PMGKAY or other),small millets,nutri-cereal,nutri-cereal (subsidised),1,F,2,1,PMGKAY or other state-specific scheme,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,120,small millets & its products (other sources),small millets,nutri-cereal,nutri-cereal (other),1,,2,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,60,small millets & its products (PDS),small millets,nutri-cereal,nutri-cereal (subsidised),1,P,2,1,,30,kg,62.5,65,1,Cereals and nutricereals,Coarse grains,Coarse grains,8,,,9.9,2.7,65,330,7,355.56,156,2178,113,24,0,1,6.1,60.4,73.9,3.2,2.122
+5,167,others,,#N/A,#N/A,1,,,6,"092 - other milk products& (lassi, butter milk, others)",7,kg,0,0,1,other,other,#N/A,#N/A,,,21.6,18.6,16,337,0,125,388,275,7.5,12,2,76.5,0.02,755,7,2,0.28
+5,166,ice-cream,,#N/A,#N/A,1,,,6,,7,-,0,0,1,other,other,#N/A,#N/A,,,21.6,18.6,16,337,0,125,388,275,7.5,12,2,76.5,0.02,755,7,2,0.28
+5,73,salt –free$,,#N/A,#N/A,1,F,,7,PMGKAY or other state-specific scheme,30,kg,0,0,1,,,Salt,14,,,,,,,,,,,,,,,,,,,
+5,178,salt - PDS,,#N/A,#N/A,1,P,,7,,30,kg,0,0,1,,,Salt,14,,,,,,,,,,,,,,,,,,,
+5,179,salt & sugar: sub-total,,#N/A,#N/A,1,T,,7,,30,kg,0,0,1,,,Salt,14,,,,,,,,,,,,,,,,,,,
+5,170,salt – other sources,,#N/A,#N/A,1,,,7,,30,kg,0,0,1,,,Salt,14,,,,,,,,,,,,,,,,,,,
+5,173,jaggery (gur),,#N/A,#N/A,1,,,7,,30,kg,0,0,1,,,Sugar,12,,,,,,,,,,,,,,,,,,,
+5,174,"candy, misri",,#N/A,#N/A,1,,,7,,30,kg,0,0,1,,,Sugar,12,,,,,,,,,,,,,,,,,,,
+5,175,honey,,#N/A,#N/A,1,,,7,,30,kg,0,0,1,,,Sugar,12,,,,,,,,,,,,,,,,,,,
+6,281,cooked meals received free in workplace$ (no.),,#N/A,#N/A,1,F,,10,‘$ ’ Do not include cooked meals received from other households,7,no.,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,289,served processed food: sub-total,,#N/A,#N/A,1,T,,10,,7,-,0,0,0,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,283,"cooked snacks purchased [samosa, puri, paratha, momo, roll, chowmein, idli, dosa, vada, chops, pakoras, pav-bhaji, vada-pao, etc.]",,#N/A,#N/A,1,,,10,,7,-,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,284,other served processed food**,,#N/A,#N/A,1,,,10,"‘**’ includes chaat, golgappa (puchka/panipuri), bhelpuri, etc",7,-,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,76,cooked meals purchased at subsidized rate (no.),,#N/A,#N/A,1,,,10,"Cooked meals purchased at subsidised rates available under different Government social welfare schemes like, Amma Canteen, Kalaignar, Maa Canteen, Shivbhojan scheme etc., or from Charitable organization are to be recorded against item 076",7,no.,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,280,cooked meals purchased (no.),,#N/A,#N/A,1,,,10,,7,no.,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,282,cooked meals received as assistance$ (no.),,#N/A,#N/A,1,,,10,‘$ ’ Do not include cooked meals received from other households,7,no.,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+5,279,beverages: sub-total,,#N/A,#N/A,1,T,,11,,7,-,0,0,0,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+5,11,soda drinks (litre),,#N/A,#N/A,1,,,11,,7,litre,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+5,274,mineral water (litre),,#N/A,#N/A,1,,,11,,7,litre,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+5,275,other cold beverages: bottled/canned (litre),,#N/A,#N/A,1,,,11,,7,litre,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+5,271,tea: leaf (gm),,#N/A,#N/A,1,,,11,,7,gm,0,0,1000,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+5,273,coffee: powder (gm),,#N/A,#N/A,1,,,11,,7,gm,0,0,1000,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+5,276,"fruit juice and shake, sugarcane/ date-palm juice, etc",,#N/A,#N/A,1,,,11,,7,-,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+5,278,"other beverages: cocoa, drinking chocolate, health drinks, etc",,#N/A,#N/A,1,,,11,,7,-,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+5,270,tea: cups (no.),,#N/A,#N/A,1,,,11,,7,no.,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+5,272,coffee: cups (no.),,#N/A,#N/A,1,,,11,,7,no.,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,299,packaged processed food: sub-total,,#N/A,#N/A,1,T,,12,,7,-,0,0,0,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,113,bread (bakery),,#N/A,#N/A,1,,,12,,7,kg,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,161,baby food,,#N/A,#N/A,1,,,12,,7,kg,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,292,"papad, bhujia, namkeen, mixture, chanachur",,#N/A,#N/A,1,,,12,,7,kg,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,295,"sauce, jam, jelly, mayonnaise (gm)",,#N/A,#N/A,1,,,12,,7,gm,0,0,1000,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,12,"breakfast cereals (oats, cornflakes, muesli etc.)",,#N/A,#N/A,1,,,12,,7,-,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,13,Biscuits,,#N/A,#N/A,1,,,12,,7,-,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,14,"health supplements (protein powder, probiotic tablet and drinks, chawanprash, etc.)",,#N/A,#N/A,1,,,12,,7,-,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,15,"noodles (cup noodles, rice noodles, etc.)",,#N/A,#N/A,1,,,12,,7,-,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,290,"cake, pastry",,#N/A,#N/A,1,,,12,,7,-,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,291,"chocolates, etc.",,#N/A,#N/A,1,,,12,,7,-,0,0,1,,,#N/A,#N/A,,,,,,,,,, ,,,,,,,,,
+6,293,"chips , nachos, puffs, wafers, etc.",,#N/A,#N/A,1,,,12,,7,-,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,294,pickles,,#N/A,#N/A,1,,,12,,7,-,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+6,296,"other packaged processed food (poha, other ready to eat meal, etc.)",,#N/A,#N/A,1,,,12,,7,-,0,0,1,,,#N/A,#N/A,,,,,,,,,,,,,,,,,,,
+5,219,vegetables: subtotal,,#N/A,#N/A,1,T,,4,,7,-,198.6298828,198.6298828,0,Vegetables,Vegetables,Vegetables,13,,,1.8,0.5,5,35,2,41.3,44,365,97,28.53,24,18.4,2,38.1,21.3,1,0.2
+5,201,onion,,#N/A,#N/A,1,,,4,,7,kg,198.6298828,198.6298828,1,Vegetables,Vegetables,Vegetables,13,,,1.8,0.5,5,35,2,41.3,44,365,97,28.53,24,18.4,2,38.1,21.3,1,0.2
+5,202,tomato,,#N/A,#N/A,1,,,4,,7,kg,198.6298828,198.6298828,1,Vegetables,Vegetables,Vegetables,13,,,1.8,0.5,5,35,2,41.3,44,365,97,28.53,24,18.4,2,38.1,21.3,1,0.2
+5,203,brinjal,,#N/A,#N/A,1,,,4,,7,kg,198.6298828,198.6298828,1,Vegetables,Vegetables,Vegetables,13,,,1.8,0.5,5,35,2,41.3,44,365,97,28.53,24,18.4,2,38.1,21.3,1,0.2
+5,207,green chillies,,#N/A,#N/A,1,,,4,,7,kg,198.6298828,198.6298828,1,Vegetables,Vegetables,Vegetables,13,,,1.8,0.5,5,35,2,41.3,44,365,97,28.53,24,18.4,2,38.1,21.3,1,0.2
+5,208,lady's finger,,#N/A,#N/A,1,,,4,,7,kg,198.6298828,198.6298828,1,Vegetables,Vegetables,Vegetables,13,,,1.8,0.5,5,35,2,41.3,44,365,97,28.53,24,18.4,2,38.1,21.3,1,0.2
+5,210,"parwal/patal, kundru",,#N/A,#N/A,1,,,4,,7,kg,198.6298828,198.6298828,1,Vegetables,Vegetables,Vegetables,13,,,1.8,0.5,5,35,2,41.3,44,365,97,28.53,24,18.4,2,38.1,21.3,1,0.2
+5,211,cauliflower,,#N/A,#N/A,1,,,4,,7,kg,198.6298828,198.6298828,1,Vegetables,Vegetables,Vegetables,13,,,1.8,0.5,5,35,2,41.3,44,365,97,28.53,24,18.4,2,38.1,21.3,1,0.2
+5,213,"gourd, pumpkin",,#N/A,#N/A,1,,,4,,7,kg,198.6298828,198.6298828,1,Vegetables,Vegetables,Vegetables,13,,,1.8,0.5,5,35,2,41.3,44,365,97,28.53,24,18.4,2,38.1,21.3,1,0.2
+5,214,Peas,,#N/A,#N/A,1,,,4,,7,kg,198.6298828,198.6298828,1,Vegetables,Vegetables,Vegetables,13,,,1.8,0.5,5,35,2,41.3,44,365,97,28.53,24,18.4,2,38.1,21.3,1,0.2
+5,215,"beans, barbati",,#N/A,#N/A,1,,,4,,7,kg,198.6298828,198.6298828,1,Vegetables,Vegetables,Vegetables,13,,,1.8,0.5,5,35,2,41.3,44,365,97,28.53,24,18.4,2,38.1,21.3,1,0.2
+5,217,other vegetables,,#N/A,#N/A,1,,,4,,7,kg,198.6298828,198.6298828,1,Vegetables,Vegetables,Vegetables,13,,,1.8,0.5,5,35,2,41.3,44,365,97,28.53,24,18.4,2,38.1,21.3,1,0.2
+5,216,lemon (no.),,#N/A,#N/A,1,,,4,,7,no.,198.6298828,198.6298828,17.24,Vegetables,Vegetables,Vegetables,13,,,1.8,0.5,5,35,2,41.3,44,365,97,28.53,24,18.4,2,38.1,21.3,1,0.2
+5,74,sugar- free$,,#N/A,#N/A,1,F,,7,PMGKAY or other state-specific scheme,30,kg,0,0,1,,Table sugar,Table sugar,12,,,0,0,100,400,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,171,sugar –PDS,,#N/A,#N/A,1,,,7,,30,kg,0,0,1,,Table sugar,Table sugar,12,,,0,0,100,400,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,172,sugar – other sources,,#N/A,#N/A,1,,,7,,30,kg,0,0,1,,Table sugar,Table sugar,12,,,0,0,100,400,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,200,potato,,#N/A,#N/A,1,,,4,,7,kg,100.6850586,100.6850586,1,Vegetables,Roots & tubers,Roots & tubers,11,,,1.5,0.2,12,59,2,32,11,405,97,21,12,40,0.55,28.5,19.4,0.6,0.2
+5,204,radish,,#N/A,#N/A,1,,,4,,7,kg,100.6850586,100.6850586,1,Vegetables,Roots & tubers,Roots & tubers,11,,,1.5,0.2,12,59,2,32,11,405,97,21,12,40,0.55,28.5,19.4,0.6,0.2
+5,205,carrot,,#N/A,#N/A,1,,,4,,7,kg,100.6850586,100.6850586,1,Vegetables,Roots & tubers,Roots & tubers,11,,,1.5,0.2,12,59,2,32,11,405,97,21,12,40,0.55,28.5,19.4,0.6,0.2
+5,71,pulses –free$,,#N/A,#N/A,1,F,,2,PMGKAY or other state-specific scheme,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,72,gram- free$,,#N/A,#N/A,1,F,,2,PMGKAY or other state-specific scheme,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,158,pulses - PDS,,#N/A,#N/A,1,P,,2,,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,159,pulses & pulse products: sub-total,,#N/A,#N/A,1,T,,2,,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,140,"arhar, tur",,#N/A,#N/A,1,,,2,,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,141,gram: split,,#N/A,#N/A,1,,,2,,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,142,gram: whole,,#N/A,#N/A,1,,,2,,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,143,moong,,#N/A,#N/A,1,,,2,,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,144,masur,,#N/A,#N/A,1,,,2,,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,145,urd,,#N/A,#N/A,1,,,2,,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,146,"peas, chickpeas",,#N/A,#N/A,1,,,2,,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,148,"other pulses (khesari, etc.)",,#N/A,#N/A,1,,,2,,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,150,"besan, gram products",,#N/A,#N/A,1,,,2,,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,152,"other pulse products (soya chunks, etc.)",,#N/A,#N/A,1,,,2,,30,kg,85,55,1,Pulses,Pulses,Pulses,10,,,22.8,3,49,323,12,400,159,2124,216,157,0,8,9,102.2,133.3,6.3,2.45
+5,94,"other dry fruits& (apricot, dry fig:anjeer, others)",,#N/A,#N/A,1,D,,13,,7,kg,100,100,1,Nuts & seeds,Nuts,Nuts,9,,,17.5,41.3,18,516,9,390,140,3210,311.4,47.58,0.4,1.26,9,211.6,185.6,6.6,2.6
+5,249,fruits (dry): sub-total,,#N/A,#N/A,1,T,,13,,7,kg,100,100,1,Nuts & seeds,Nuts,Nuts,9,,,17.5,41.3,18,516,9,390,140,3210,311.4,47.58,0.4,1.26,9,211.6,185.6,6.6,2.6
+5,8,apricot,,#N/A,#N/A,1,,,13,"094 - other dry fruits& (apricot, dry fig:anjeer, others)",7,kg,100,100,1,Nuts & seeds,Nuts,Nuts,9,,,17.5,41.3,18,516,9,390,140,3210,311.4,47.58,0.4,1.26,9,211.6,185.6,6.6,2.6
+5,10,dry fig: anjeer,,#N/A,#N/A,1,,,13,"094 - other dry fruits& (apricot, dry fig:anjeer, others)",7,kg,100,100,1,Nuts & seeds,Nuts,Nuts,9,,,17.5,41.3,18,516,9,390,140,3210,311.4,47.58,0.4,1.26,9,211.6,185.6,6.6,2.6
+5,240,coconut: copra,,#N/A,#N/A,1,,,13,,7,kg,100,100,1,Nuts & seeds,Nuts,Nuts,9,,,17.5,41.3,18,516,9,390,140,3210,311.4,47.58,0.4,1.26,9,211.6,185.6,6.6,2.6
+5,241,groundnut,,#N/A,#N/A,1,,,13,,7,kg,100,100,1,Nuts & seeds,Nuts,Nuts,9,,,17.5,41.3,18,516,9,390,140,3210,311.4,47.58,0.4,1.26,9,211.6,185.6,6.6,2.6
+5,242,dates,,#N/A,#N/A,1,,,13,,7,kg,100,100,1,Nuts & seeds,Nuts,Nuts,9,,,17.5,41.3,18,516,9,390,140,3210,311.4,47.58,0.4,1.26,9,211.6,185.6,6.6,2.6
+5,243,cashew nut,,#N/A,#N/A,1,,,13,,7,kg,100,100,1,Nuts & seeds,Nuts,Nuts,9,,,17.5,41.3,18,516,9,390,140,3210,311.4,47.58,0.4,1.26,9,211.6,185.6,6.6,2.6
+5,245,"other nuts (almond, pistachio, walnut, hazelnut, etc.)",,#N/A,#N/A,1,,,13,,7,kg,100,100,1,Nuts & seeds,Nuts,Nuts,9,,,17.5,41.3,18,516,9,390,140,3210,311.4,47.58,0.4,1.26,9,211.6,185.6,6.6,2.6
+5,246,"raisin (kishmish), monacca, etc",,#N/A,#N/A,1,,,13,,7,kg,100,100,1,Nuts & seeds,Nuts,Nuts,9,,,17.5,41.3,18,516,9,390,140,3210,311.4,47.58,0.4,1.26,9,211.6,185.6,6.6,2.6
+5,247,others,,#N/A,#N/A,1,,,13,"094 - other dry fruits& (apricot, dry fig:anjeer, others)",7,kg,100,100,1,Nuts & seeds,Nuts,Nuts,9,,,17.5,41.3,18,516,9,390,140,3210,311.4,47.58,0.4,1.26,9,211.6,185.6,6.6,2.6
+5,92,"other milk products& (lassi, butter milk, others)",,#N/A,#N/A,1,D,,6,,7,-,300,300,0,Milk/curd,Milk/curd,Milk/curd,7,,,21.6,18.6,16,337,0,125,388,275,7.5,12,2,76.5,0.02,755,7,2,0.28
+5,169,milk & milk products: sub-total,,#N/A,#N/A,1,T,,6,,7,-,300,300,0,Milk/curd,Milk/curd,Milk/curd,7,,,21.6,18.6,16,337,0,125,388,275,7.5,12,2,76.5,0.02,755,7,2,0.28
+5,7,butter milk,,#N/A,#N/A,1,,,6,"092 - other milk products& (lassi, butter milk, others)",7,kg,300,300,1,Milk/curd,Milk/curd,Milk/curd,7,,,21.6,18.6,16,337,0,125,388,275,7.5,12,2,76.5,0.02,755,7,2,0.28
+5,6,lassi,,#N/A,#N/A,1,,,6,"092 - other milk products& (lassi, butter milk, others)",7,gm,300,300,1000,Milk/curd,Milk/curd,Milk/curd,7,,,21.6,18.6,16,337,0,125,388,275,7.5,12,2,76.5,0.02,755,7,2,0.28
+5,206,palak/other leafy vegetables,,#N/A,#N/A,1,,,4,,7,kg,100.6850586,100.6850586,1,Vegetables,GLVs,GLVs,6,,,3.8,0.7,5,45,2,60,128,625,97,31.6,46,397.9,3.4,279.3,35.7,8.1,0.3
+5,212,cabbage,,#N/A,#N/A,1,,,4,,7,kg,100.6850586,100.6850586,1,Vegetables,GLVs,GLVs,6,,,3.8,0.7,5,45,2,60,128,625,97,31.6,46,397.9,3.4,279.3,35.7,8.1,0.3
+5,93,"other fresh fruits& (litchi, pears/ nashpati, singara, jackfruit, berries, pineapple, others)",,#N/A,#N/A,1,D,,3,,7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,239,fruits (fresh): subtotal,,#N/A,#N/A,1,T,,3,,7,-,100,100,0,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,221,jackfruit,,#N/A,#N/A,1,,,3,"093 - other fresh fruits& (litchi, pears/nashpati, singara, jackfruit, berries, pineapple, others)",7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,222,watermelon,,#N/A,#N/A,1,,,3,,7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,226,guava,,#N/A,#N/A,1,,,3,,7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,227,singara,,#N/A,#N/A,1,,,3,"093 - other fresh fruits& (litchi, pears/nashpati, singara, jackfruit, berries, pineapple, others)",7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,230,papaya,,#N/A,#N/A,1,,,3,,7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,231,mango,,#N/A,#N/A,1,,,3,,7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,232,kharbooza,,#N/A,#N/A,1,,,3,,7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,233,pears/nashpati,,#N/A,#N/A,1,,,3,"093 - other fresh fruits& (litchi, pears/nashpati, singara, jackfruit, berries, pineapple, others)",7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,234,berries,,#N/A,#N/A,1,,,3,"093 - other fresh fruits& (litchi, pears/nashpati, singara, jackfruit, berries, pineapple, others)",7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,235,litchi,,#N/A,#N/A,1,,,3,"093 - other fresh fruits& (litchi, pears/nashpati, singara, jackfruit, berries, pineapple, others)",7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,236,apple,,#N/A,#N/A,1,,,3,,7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,237,grapes,,#N/A,#N/A,1,,,3,,7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,238,others,,#N/A,#N/A,1,,,3,"093 - other fresh fruits& (litchi, pears/nashpati, singara, jackfruit, berries, pineapple, others)",7,kg,100,100,1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,223,pineapple (no.),,#N/A,#N/A,1,,,3,"093 - other fresh fruits& (litchi, pears/nashpati, singara, jackfruit, berries, pineapple, others)",7,no.,100,100,1.1,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,228,"orange, sweet lime (mausami) (no.)",,#N/A,#N/A,1,,,3,,7,no.,100,100,6.5,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,220,banana (no.),,#N/A,#N/A,1,,,3,,7,no.,100,100,8.47,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,224,coconut (no.),,#N/A,#N/A,1,,,3,,7,no.,100,100,12.5,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,225,green coconut (no.),,#N/A,#N/A,1,,,3,,7,no.,100,100,12.5,Fruits,Fruits,Fruits,5,,,1,0.6,11,59,2,34.78,22,370,65,11,37,35,4,28.2,10.3,0.6,0.1
+5,190,eggs (no.),,#N/A,#N/A,1,,,5,,7,no.,0,70,20,Chicken/meat,Egg,"Egg, fish & meats",4,,,13.3,10,1,147,0,100,100,67,103,41.6,0,126,0,64.9,12,1.43,0.9
+5,191,"fish, prawn",,#N/A,#N/A,1,,,5,,7,kg,0,70,1,Chicken/meat,Fish & sea foods,"Egg, fish & meats",4,,,18.4,3.1,2,110,0,12,9,812,0,0,2.5,439,2,323.1,4.4,2.16,0.2
+5,199,"egg, fish & meat: sub-total",,#N/A,#N/A,1,T,,5,,7,-,0,70,0,Chicken/meat,Meat & poultry,"Egg, fish & meats",4,,,20.8,6.8,0,250,0,82,109,2773,220,6,0,2,0,18.7,11.7,1.4,1.82
+5,192,goat meat/ mutton,,#N/A,#N/A,1,,,5,,7,kg,0,70,1,Chicken/meat,Meat & poultry,"Egg, fish & meats",4,,,20.8,6.8,0,250,0,82,109,2773,220,6,0,2,0,18.7,11.7,1.4,1.82
+5,193,beef/ buffalo meat,,#N/A,#N/A,1,,,5,,7,kg,0,70,1,Chicken/meat,Meat & poultry,"Egg, fish & meats",4,,,20.8,6.8,0,250,0,82,109,2773,220,6,0,2,0,18.7,11.7,1.4,1.82
+5,194,pork,,#N/A,#N/A,1,,,5,,7,kg,0,70,1,Chicken/meat,Meat & poultry,"Egg, fish & meats",4,,,20.8,6.8,0,250,0,82,109,2773,220,6,0,2,0,18.7,11.7,1.4,1.82
+5,195,chicken,,#N/A,#N/A,1,,,5,,7,kg,0,70,1,Chicken/meat,Meat & poultry,"Egg, fish & meats",4,,,20.8,6.8,0,250,0,82,109,2773,220,6,0,2,0,18.7,11.7,1.4,1.82
+5,196,"others: birds, crab, oyster, etc.",,#N/A,#N/A,1,,,5,,7,kg,0,70,1,Chicken/meat,Meat & poultry,"Egg, fish & meats",4,,,20.8,6.8,0,250,0,82,109,2773,220,6,0,2,0,18.7,11.7,1.4,1.82
+5,269,spices: sub-total,,#N/A,#N/A,1,T,,9,,7,gm,0,0,1000,,Dry spices,Dry spices,3,,,8.5,10,31,240,17,217,113,1067,214,28,5,38,19,367,160.1,12,2
+5,250,ginger (gm),,#N/A,#N/A,1,,,9,,7,gm,0,0,1000,,Dry spices,Dry spices,3,,,8.5,10,31,240,17,217,113,1067,214,28,5,38,19,367,160.1,12,2
+5,251,garlic (gm),,#N/A,#N/A,1,,,9,,7,gm,0,0,1000,,Dry spices,Dry spices,3,,,8.5,10,31,240,17,217,113,1067,214,28,5,38,19,367,160.1,12,2
+5,252,cumin (jeera (gm)),,#N/A,#N/A,1,,,9,,7,gm,0,0,1000,,Dry spices,Dry spices,3,,,8.5,10,31,240,17,217,113,1067,214,28,5,38,19,367,160.1,12,2
+5,253,coriander (dhania (gm)),,#N/A,#N/A,1,,,9,,7,gm,0,0,1000,,Dry spices,Dry spices,3,,,8.5,10,31,240,17,217,113,1067,214,28,5,38,19,367,160.1,12,2
+5,254,turmeric (gm),,#N/A,#N/A,1,,,9,,7,gm,0,0,1000,,Dry spices,Dry spices,3,,,8.5,10,31,240,17,217,113,1067,214,28,5,38,19,367,160.1,12,2
+5,255,black pepper (gm),,#N/A,#N/A,1,,,9,,7,gm,0,0,1000,,Dry spices,Dry spices,3,,,8.5,10,31,240,17,217,113,1067,214,28,5,38,19,367,160.1,12,2
+5,256,dry chillies (gm),,#N/A,#N/A,1,,,9,,7,gm,0,0,1000,,Dry spices,Dry spices,3,,,8.5,10,31,240,17,217,113,1067,214,28,5,38,19,367,160.1,12,2
+5,257,tamarind (gm),,#N/A,#N/A,1,,,9,,7,gm,0,0,1000,,Dry spices,Dry spices,3,,,8.5,10,31,240,17,217,113,1067,214,28,5,38,19,367,160.1,12,2
+5,258,curry powder (gm),,#N/A,#N/A,1,,,9,,7,gm,0,0,1000,,Dry spices,Dry spices,3,,,8.5,10,31,240,17,217,113,1067,214,28,5,38,19,367,160.1,12,2
+5,260,oilseeds (gm),,#N/A,#N/A,1,,,9,,7,gm,0,0,1000,,Dry spices,Dry spices,3,,,8.5,10,31,240,17,217,113,1067,214,28,5,38,19,367,160.1,12,2
+5,261,other spices (gm),,#N/A,#N/A,1,,,9,,7,gm,0,0,1000,,Dry spices,Dry spices,3,,,8.5,10,31,240,17,217,113,1067,214,28,5,38,19,367,160.1,12,2
+5,263,poppy seeds (gm),,#N/A,#N/A,1,,,9,,7,gm,0,0,1000,,Dry spices,Dry spices,3,,,8.5,10,31,240,17,217,113,1067,214,28,5,38,19,367,160.1,12,2
+5,95,"edible oil: others& (vanaspati, margarine, others)",,#N/A,#N/A,1,D,,8,,7,kg,27,27,1,Fats & oils,Cooking oil/fats,Cooking oil/fats,2,,,0,100,0,900,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,75,edible oil- free$,,#N/A,#N/A,1,F,,8,PMGKAY or other state-specific scheme,7,kg,27,27,1,Fats & oils,Cooking oil/fats,Cooking oil/fats,2,,,0,100,0,900,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,188,edible oil - PDS,,#N/A,#N/A,1,P,,8,,7,kg,27,27,1,Fats & oils,Cooking oil/fats,Cooking oil/fats,2,,,0,100,0,900,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,189,edible oil: sub-total,,#N/A,#N/A,1,T,,8,,7,kg,27,27,1,Fats & oils,Cooking oil/fats,Cooking oil/fats,2,,,0,100,0,900,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,180,"vanaspati, margarine",,#N/A,#N/A,1,,,8,"095 - edible oil: others& (vanaspati, margarine, others)",7,kg,27,27,1,Fats & oils,Cooking oil/fats,Cooking oil/fats,2,,,0,100,0,900,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,181,mustard oil,,#N/A,#N/A,1,,,8,,7,kg,27,27,1,Fats & oils,Cooking oil/fats,Cooking oil/fats,2,,,0,100,0,900,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,182,groundnut oil,,#N/A,#N/A,1,,,8,,7,kg,27,27,1,Fats & oils,Cooking oil/fats,Cooking oil/fats,2,,,0,100,0,900,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,183,coconut oil,,#N/A,#N/A,1,,,8,,7,kg,27,27,1,Fats & oils,Cooking oil/fats,Cooking oil/fats,2,,,0,100,0,900,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,184,"refined oil [sunflower, soyabean, palm oil, vegetable oil, etc.]",,#N/A,#N/A,1,,,8,,7,kg,27,27,1,Fats & oils,Cooking oil/fats,Cooking oil/fats,2,,,0,100,0,900,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,185,others,,#N/A,#N/A,1,,,8,"095 - edible oil: others& (vanaspati, margarine, others)",7,kg,27,27,1,Fats & oils,Cooking oil/fats,Cooking oil/fats,2,,,0,100,0,900,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,61,rice-free$,rice,rice,rice (subsidised),1,F,,1,,30,kg,187.5,195,1,Cereals and nutricereals,Cereals,Cereals,1,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,62,wheat/atta- free$,wheat,wheat,wheat (subsidised),1,F,,1,,30,kg,187.5,195,1,Cereals and nutricereals,Cereals,Cereals,1,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,101,rice – PDS,rice,rice,rice (subsidised),1,P,,1,,30,kg,187.5,195,1,Cereals and nutricereals,Cereals,Cereals,1,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,107,wheat/ atta – PDS,wheat,wheat,wheat (subsidised),1,P,,1,,30,kg,187.5,195,1,Cereals and nutricereals,Cereals,Cereals,1,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,129,cereal: sub-total,cereal,#N/A,#N/A,1,T,,1,,30,kg,187.5,195,1,Cereals and nutricereals,Cereals,Cereals,1,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,102,rice – other sources,rice,rice,rice (other),1,,,1,,30,kg,187.5,195,1,Cereals and nutricereals,Cereals,Cereals,1,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,103,chira,chira,#N/A,#N/A,1,,,1,,30,kg,187.5,195,1,Cereals and nutricereals,,#N/A,#N/A,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,105,muri,muri,#N/A,#N/A,1,,,1,,30,kg,187.5,195,1,Cereals and nutricereals,,#N/A,#N/A,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,106,"other rice products (khoi/lawa, etc.)",other,#N/A,#N/A,1,,,1,,30,kg,187.5,195,1,Cereals and nutricereals,,#N/A,#N/A,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,108,wheat/ atta – other sources,wheat,wheat,wheat (other),1,,,1,,30,kg,187.5,195,1,Cereals and nutricereals,Cereals,Cereals,1,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,110,maida,maida,#N/A,#N/A,1,,,1,,30,kg,187.5,195,1,Cereals and nutricereals,Cereals,Cereals,1,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,111,"suji, rawa",suji,#N/A,#N/A,1,,,1,,30,kg,187.5,195,1,Cereals and nutricereals,Cereals,Cereals,1,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,112,vermicelli (sewai),vermicelli,#N/A,#N/A,1,,,1,,30,kg,187.5,195,1,Cereals and nutricereals,,#N/A,#N/A,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,114,other wheat products,other,#N/A,#N/A,1,,,1,,30,kg,187.5,195,1,Cereals and nutricereals,,#N/A,#N/A,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,122,other cereals & products,other cereals,#N/A,#N/A,1,,,1,,30,kg,187.5,195,1,Cereals and nutricereals,,#N/A,#N/A,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,139,"cereal substitutes: tapioca, etc.",cereal substitutes,#N/A,#N/A,1,,,1,,30,kg,187.5,195,1,Cereals and nutricereals,Cereals,Cereals,1,,,9.3,1.2,72,343,6,238,85,2139,162,16,0,2,7,18.1,69.1,2.73,1.7
+5,4,prepared sweets,,#N/A,#N/A,0.4,,,6,,7,kg,0,0,1,Other,Other,#N/A,#N/A,,,21.6,18.6,16,337,0,125,388,275,7.5,12,2,76.5,0.02,755,7,2,0.28
